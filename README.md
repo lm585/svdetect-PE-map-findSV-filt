@@ -7,6 +7,11 @@ WWZ SERVER
 
 2.  script-get-insert-avg-std-max, 44bp-size-std-max, sv.conf, script-44bp-PEsam-sv
 
+==> /home/linyong/BTI-SV-detect-genotype-Citrus/44bp-size-std-max <==
+CitrusA.pair.sam        260     93      874
+CitrusB.pair.sam        263     94      883
+
+
 3. script-sv-filt-wm
 [scr-cmd-sv-filt-batch]
 
